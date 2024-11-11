@@ -1,7 +1,7 @@
 <p align="center">
 	<img src="/title.png" />
 	<h3 align="center">
-		<a href="https://geode-sdk.org">Home page</a>
+		<a href="https://geode-sdk.org">Hom page</a>
 	</h3>
 </p>
 
